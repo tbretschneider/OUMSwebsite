@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Matrix Society Homepage</title>
+  <link>https://users.ox.ac.uk/~ball5903/oums/</link>
+  <description>The center of matrix use at Oxford University</description>
+  <caterogy>Technology</category>
+  <copyright>Free to use by anyone</copyright>
+<image>
+	<url>https://matrix.org/images/matrix-logo.svg</url>
+  <title>Matrix.org Logo</title>
+  <link>https://matrix.org</link>
+</image>
+<language>en-us</language>
+  <item>
+    <title>Mobile Use Poster</title>
+    <link>https://users.ox.ac.uk/~ball5903/oums/oumsgs.pdf</link>
+    <description>Poster showing how best to connect to the Official Oxford University server.</description>
+<enclosure url="https://matrix.org/images/matrix-logo.svg"
+	length="5000" type="image/svg" />
+<comments>https://users.ox.ac.uk/~ball5903/oums/</comments>
+<author>tobias.bretschneider@maths.ox.ac.uk</author>
+  </item>
+</channel>
+
+</rss> 
